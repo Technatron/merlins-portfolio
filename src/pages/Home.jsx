@@ -1,7 +1,6 @@
 import { Canvas } from '@react-three/fiber';
 import React, { Suspense, useState } from 'react';
 import Loader from '../components/Loader.jsx';
-import Book from '../models/Book.jsx'
 import Castle from '../models/CastleIsland.jsx'
 // import Book from '../models/Book.jsx'
 import Sky from '../models/Sky.jsx';
