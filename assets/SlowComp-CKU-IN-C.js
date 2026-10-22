@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./index-DkExht3_.js";t();var r=e();function i(){return(0,r.jsx)(n,{children:(0,r.jsx)(`div`,{children:`SlowComp`})})}export{i as default};
